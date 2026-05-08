@@ -1,4 +1,10 @@
-node_modules
-.expo
-dist
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+
+# build outputs
+dist/
+
 
